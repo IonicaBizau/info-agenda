@@ -17,13 +17,14 @@
     "material",
     "design"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/info-agenda/issues"
   },
   "homepage": "https://github.com/IonicaBizau/info-agenda",
   "blah": {
-      "ex_img": "http://i.imgur.com/Tn4SpP3.jpg"
+    "ex_img": "http://i.imgur.com/Tn4SpP3.jpg",
+    "ex_url": "http://ionicabizau.github.io/info-agenda"
   }
 }

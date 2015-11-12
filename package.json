@@ -1,6 +1,6 @@
 {
   "name": "info-agenda",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An example about using localStorage to store agenda information.",
   "main": "js/index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "info-agenda",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "An example about using localStorage to store agenda information.",
   "main": "js/index.js",
   "scripts": {
@@ -26,5 +26,16 @@
   "blah": {
     "ex_img": "http://i.imgur.com/Tn4SpP3.jpg",
     "ex_url": "http://ionicabizau.github.io/info-agenda"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }

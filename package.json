@@ -1,6 +1,6 @@
 {
   "name": "info-agenda",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "An example about using localStorage to store agenda information.",
   "main": "js/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "material",
     "design"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/info-agenda/issues"
@@ -31,12 +31,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]

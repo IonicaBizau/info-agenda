@@ -1,6 +1,6 @@
 {
   "name": "info-agenda",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "An example about using localStorage to store agenda information.",
   "main": "js/index.js",
   "scripts": {
@@ -37,6 +37,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }

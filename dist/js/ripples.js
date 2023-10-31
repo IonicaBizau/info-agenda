@@ -221,7 +221,7 @@
 
 
   /**
-   * Verify if the client browser has transistion support
+   * Verify if the client browser has transition support
    */
   Ripples.prototype.hasTransitionSupport = function() {
     var thisBody  = document.body || document.documentElement;
